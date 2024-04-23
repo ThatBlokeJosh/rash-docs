@@ -1,9 +1,8 @@
 ---
-title: My Site
-toc: false
+title: The rash programming language 🦐
 ---
 
-This is the landing page.
+<p style="text-align: center; font-weight: bold; font-style: italic;">The reasonable bash alternative</p>
 
 ## Explore
 
@@ -12,6 +11,3 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).

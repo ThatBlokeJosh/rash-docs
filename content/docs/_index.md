@@ -1,18 +1,15 @@
 ---
 title: Documentation
-next: first-page
+next: getting-started
 ---
 
-This is a demo of the theme's documentation layout.
+Welcome to the docs of Rash-lang, a simple scripting language with easy access to the shell, but with reasonable syntax!
+
 
 ## Hello, World!
 
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
+```python {filename="script.rash"}
+for i = 0; i <= 10; ++i; {
+    print("HELLO WORLD!")
 }
 ```
