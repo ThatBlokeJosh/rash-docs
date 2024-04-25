@@ -1,5 +1,0 @@
----
-title: Math 
-type: docs
----
-

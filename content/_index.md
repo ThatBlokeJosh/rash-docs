@@ -1,5 +1,5 @@
 ---
-title: The rash programming language 🦐
+title: Rash 🦐 
 ---
 
 <p style="text-align: center; font-weight: bold; font-style: italic;">The reasonable bash alternative</p>
